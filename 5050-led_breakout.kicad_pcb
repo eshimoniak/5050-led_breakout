@@ -284,7 +284,7 @@
   )
 
   (gr_rect (start 130.81 96.52) (end 149.86 106.68)
-    (stroke (width 0.15) (type solid)) (fill none) (layer "F.SilkS") (tstamp 8f3e9b2e-6e8f-4040-9dc3-a8ec3ada90d6))
+    (stroke (width 0.15) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 8f3e9b2e-6e8f-4040-9dc3-a8ec3ada90d6))
 
   (segment (start 137.03 99.06) (end 137.855 99.885) (width 0.25) (layer "F.Cu") (net 1) (tstamp 4f0ccb0a-575c-4e62-b1c9-3f6c63957410))
   (segment (start 133.905 99.06) (end 137.03 99.06) (width 0.25) (layer "F.Cu") (net 1) (tstamp db724c51-2427-435e-8e13-cf2014ea8f3d))
